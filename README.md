@@ -25,7 +25,7 @@ DATASET LINK : https://www.kaggle.com/datasets/feyzazkefe/trashnet
 - Matplotlib
 
 ## 📊 Results
-- Validation Accuracy: **63.56%**
+- Validation Accuracy: **71.56%**
 - Validation Loss: **0.91**
 
 ## 🚀 Future Improvements
