@@ -26,7 +26,7 @@ DATASET LINK : https://www.kaggle.com/datasets/feyzazkefe/trashnet
 
 ## 📊 Results
 - Validation Accuracy: **63.56%**
-- Validation Loss: **1.284**
+- Validation Loss: **0.91**
 
 ## 🚀 Future Improvements
 - Data Augmentation
